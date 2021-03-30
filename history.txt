@@ -1,0 +1,90 @@
+    1  pwd
+    2  mkdir sowmya
+    3  cd desktop
+    4  mkdir sowmya
+    5  ls
+    6  cd sowmya
+    7  touch example1.txt
+    8  ls
+    9  touch file{1..5}.txt
+   10  ls
+   11  cd d;
+   12  cd d:
+   13  clr
+   14  clear
+   15  clear
+   16  mkdir sowmya
+   17  cd apssdc1
+   18  Mkdir apssdc
+   19  cd apssdc
+   20  cd:e
+   21  cd e:
+   22  touch profile.txt
+   23  ls
+   24  vi
+   25  Mrdir apssdc
+   26  Mkdir apssdc
+   27  Mkdir apssdc1
+   28  touch profile.txt
+   29  ls
+   30  vi profile.txt
+   31  vi profile.txt
+   32  cat profile.txt
+   33  pwd
+   34  ls
+   35  touch demo.txt
+   36  ls
+   37  mkdir GIST
+   38  ls
+   39  cd GIST
+   40  pwd
+   41  cd ..
+   42  pwd
+   43  cd e:
+   44  pwd
+   45  cd d:
+   46  pwd
+   47  cd c:
+   48  cd Users/dell/Desktop/Arshiya-452
+   49  pwd
+   50  echo "Hello"
+   51  echo 1..100
+   52  echo {1..100}
+   53  touch file{1..100}.txt
+   54  touch python{20..50}.py
+   55  touch clanguage{50..70}.cpp
+   56  pwd
+   57  ls
+   58  rmdir gist
+   59  ls
+   60  rm demo.txt
+   61  ls
+   62  rm file{1..10}.txt
+   63  ls
+   64  rm file{50..100}.txt
+   65  ls
+   66  rm *.txt
+   67  ls
+   68  rm clanguage{50..70}.cpp
+   69  ls
+   70  rm *.py
+   71  ls
+   72  nano myfile.txt
+   73  cat myfile.txt
+   74  nano myfile.txt
+   75  cat myfile.txt
+   76  echo "Hello">>myfile2.txt
+   77  cat myfile.txt
+   78  cat myfile2.txt
+   79  echo {1..100}
+   80  echo {1..1000}
+   81  echo {1..1000}>>myfile3.txt
+   82  cat myfile3.txt
+   83  mv myfile3.txt myfile2.txt
+   84  ls
+   85  cat myfile2.txt
+   86  cp myfile2.txt myfile.txt
+   87  cat myfile.txt
+   88  ls
+   89  history
+   90  history >>history.txt
